@@ -1,2 +1,2 @@
 # eof.github.io
-s
+The official website for the Elytras of Fire datapack.
